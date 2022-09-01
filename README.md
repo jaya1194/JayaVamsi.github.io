@@ -13,7 +13,9 @@ Apart from this we can also be more updated towards the society and get awarenes
 This Project helps every individual track the data with huge insights like monetoring the data and analysing the graph which helps people to understand and track the news easily.
 The projet uses so many visualising techniques and packages for plotting the graph and to track the previous data which used to merge all the connecting news.This covers covers the topics in Densio
 
-
+<br />
+<br />
+<br />
 
 
 
@@ -21,7 +23,7 @@ The projet uses so many visualising techniques and packages for plotting the gra
 #Text Book
 <h1>Introduction to Machine Learning</h1>
 [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
-<h3>Authors => Alex Smola , S.V.N. Vishwanathan
+<h3>Authors => Alex Smola , S.V.N. Vishwanathan</h3>
 THe book I am interested is "Intoduction to Machine Learning" written by Alex Somla and S.V.N. Vishwanathan.
 Alex Smola is Senior Principal Researcher and Machine Learning program Leader at National Information Communications Technology(ICT) Australia.
 S.V.N. Vishwanathan is a professor of Computer Science at University of California, Santa Cruz.
