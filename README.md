@@ -1,5 +1,5 @@
+[Data Set: The GDELT Project](https://www.gdeltproject.org)
 <h1>The GDELT Project</h1>
-[Data Set: The GDELT Project](https://www.gdeltproject.org) <br/>
 <h2>Description</h2>
 The dataset that interests me a lot is "The GDELT project dataset.In this dataset they used Event Database ,Global Knowledge Graph- it consists two parallel data
  streams, one is used to encoding the entire knowledge graph with all of its fields,
@@ -22,9 +22,8 @@ The projet uses so many visualising techniques and packages for plotting the gra
 
 
 
-
+[Text Book: Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
 <h1>Introduction to Machine Learning</h1>
-[Text Book: Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) <br/>
 <h2>Alex Smola , S.V.N. Vishwanathan</h2>
 THe book I am interested is "Intoduction to Machine Learning" written by Alex Somla and S.V.N. Vishwanathan.
 Alex Smola is Senior Principal Researcher and Machine Learning program Leader at National Information Communications Technology(ICT) Australia.
