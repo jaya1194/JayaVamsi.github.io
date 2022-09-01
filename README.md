@@ -26,5 +26,12 @@ THe book I am interested is "Intoduction to Machine Learning" written by Alex So
 Alex Smola is Senior Principal Researcher and Machine Learning program Leader at National Information Communications Technology(ICT) Australia.
 S.V.N. Vishwanathan is a professor of Computer Science at University of California, Santa Cruz.
 In my Undergrad I have done so many projects related to machine learning that makes me more interesting to advance a level in Machine learning.
+Ahead of that Data Science and Machine Learning is the most emerging technology now-a-days that boost me to set a career in this field, rather than
+that in this field where we can work on real time data to analyze and work on it. Almost in every fields like Health ,Finance , Marketing etc. needs
+a machine learning engineer or data scientist to analyze their data and their organizations for predicting their outputs and moniter their data.   
 This Introduction to Machine Learning intermediate book helps me to advance my level from beginner to intermediate which is helpful to me.
 As this book covers so many advance topic algorithms like Density Estimation,Graphical models,Conditional densities ,Linear models etc. 
+In this book every algorithm is explained very clearly with an example which understands quickly and easily and introduced almost all the algorithms
+in the machine learning using this book.More than that they also attached some problems for practice  and explained almost every theorems clearly.
+This book helps me to understand and cover the topics in Machine Learning and ace my skills.
+
