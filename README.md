@@ -1,8 +1,6 @@
-# Data set
+[<h1>Data Set: The GDELT Project</h1>](https://www.gdeltproject.org) <br/>
 <h1>The GDELT Project</h1>
 <h2>Description</h2>
-
-[<h2>The GDELT Project</h2>](https://www.gdeltproject.org) <br/>
 The dataset that interests me a lot is "The GDELT project dataset.In this dataset they used Event Database ,Global Knowledge Graph- it consists two parallel data streams, one is used to encoding the entire knowledge graph with all of its fields,
 and the other encoding only the subset of the graph that records "counts" of a set of predefined categories llike number of protestors, number killed, sickened.
 In Linguistics unigram, bigram , ngrams are available for dozzen stations back a decade at 30 minute resolution and update daily.   
@@ -17,14 +15,12 @@ The projet uses so many visualising techniques and packages for plotting the gra
 <br />
 <br />
 <br />
+<br />
 
 
 
-
-# Text Book
-
+[<h1>Text Book: Introduction to Machine Learning</h1>](http://alex.smola.org/drafts/thebook.pdf) <br/>
 <h1>Introduction to Machine Learning</h1>
-[<h2>Introduction to Machine Learning</h2>](http://alex.smola.org/drafts/thebook.pdf) <br/>
 <h2>Alex Smola , S.V.N. Vishwanathan</h2>
 THe book I am interested is "Intoduction to Machine Learning" written by Alex Somla and S.V.N. Vishwanathan.
 Alex Smola is Senior Principal Researcher and Machine Learning program Leader at National Information Communications Technology(ICT) Australia.
